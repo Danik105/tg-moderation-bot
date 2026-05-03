@@ -1,0 +1,4 @@
+aiogram>=3.7.0
+telethon>=1.36.0
+g4f>=0.3.0
+python-dotenv>=1.0.0

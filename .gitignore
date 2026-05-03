@@ -1,0 +1,14 @@
+.env
+*.session
+*.session-journal
+credentials.json
+config.json
+sources.json
+target.json
+links.json
+users.db
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
